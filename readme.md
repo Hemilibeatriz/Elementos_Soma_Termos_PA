@@ -1,0 +1,2 @@
+Código desenvolvido para Somar os termos de uma PA.
+Uma progressão aritmética (PA) é uma sequência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com uma constante r. O número r é chamado de razão ou diferença comum da progressão aritmética.
